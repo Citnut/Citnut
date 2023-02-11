@@ -1,8 +1,0 @@
-{
-  "data": "1dqjZvWtvIUJni6YvXjX9491VxZ_3LETx312is8w7e1NPBFeH",
-  "author": "Citnut",
-  "info": "ntc.mdh.1",
-  "key": "23298181",
-  "link": ["https://www.java.com/en/download/manual.jsp", "https://bin.equinox.io/c/4VmDzA7iaHb/ngrok-stable-windows-amd64.zip", "https://api.fork.gg/download/launcher"],
-  "run": "ngrok tcp"
-}
