@@ -2,16 +2,12 @@
 #### 🔭 tui sống tại TT Hữu Lũng, TP Lạng Sơn
 #### 🌱 tui đang học Nodejs nè
 #### 👰 he he tui là nhà nghiên cứu ngu ngok
-[![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=Citnut&show_icons=true&theme=nightowl)](https://github.com/Citnut)
-
+[![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=Citnut&show_icons=true&theme=darkl)](https://github.com/Citnut)
 <br>
+<img src="https://api.githubtrends.io/user/svg/Citnut/repos?time_range=one_year&include_private=true&group=private&loc_metric=changed&theme=dark" alt="hehe" />
+<img src="https://api.githubtrends.io/user/svg/Citnut/langs?include_private=true&compact=true&theme=dark" alt="hehe" />
 <br>
-<p align="center">
-  <img src="https://media3.giphy.com/media/ln7z2eWriiQAllfVcn/200w.webp" width="100"><br><br>
-  <img src="https://camo.githubusercontent.com/936a08778c7e4885053d148c07bbd2339dfbdd80/68747470733a2f2f6665726f73732e6e65742f782f6e6f6465322e676966" /><br><br>
-  <img src="https://little.kylerconway.com/images/golang-what.gif" width="300">
-</p>
-<br>
+<p align="center"> <img src="https://media3.giphy.com/media/ln7z2eWriiQAllfVcn/200w.webp" width="100"><br></p>
 <br>
 <p align="center">
   <a href="https://facebook.com/100048509610460" target="_blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/facebook.svg" alt="facebook" height="30" width="30" /></a>
