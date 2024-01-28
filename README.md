@@ -2,7 +2,7 @@
 #### 🔭 tui sống tại TT Hữu Lũng, TP Lạng Sơn
 #### 🌱 tui đang học Nodejs nè
 #### 👰 he he tui là nhà nghiên cứu ngu ngok
-[![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=Citnut&show_icons=true&theme=darkl)](https://github.com/Citnut)
+[![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=Citnut&show_icons=true&theme=dark)](https://github.com/Citnut)
 <br>
 <img src="https://api.githubtrends.io/user/svg/Citnut/repos?time_range=one_year&include_private=true&group=private&loc_metric=changed&theme=dark" alt="hehe" />
 <img src="https://api.githubtrends.io/user/svg/Citnut/langs?include_private=true&compact=true&theme=dark" alt="hehe" />
