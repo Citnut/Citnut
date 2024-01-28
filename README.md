@@ -4,8 +4,8 @@
 #### 👰 he he tui là nhà nghiên cứu ngu ngok
 [![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=Citnut&show_icons=true&theme=dark)](https://github.com/Citnut)
 <br>
-<img src="https://api.githubtrends.io/user/svg/Citnut/repos?time_range=one_year&include_private=true&group=private&loc_metric=changed&theme=dark" alt="hehe" />
-<img src="https://api.githubtrends.io/user/svg/Citnut/langs?include_private=true&compact=true&theme=dark" alt="hehe" />
+<img src="https://api.githubtrends.io/user/svg/Citnut/langs?time_range=one_year&theme=dark" alt="hehe" />
+<img src="https://api.githubtrends.io/user/svg/Citnut/repos?time_range=one_year&group=other&theme=dark" alt="hehe" />
 <br>
 <p align="center"> <img src="https://media3.giphy.com/media/ln7z2eWriiQAllfVcn/200w.webp" width="100"><br></p>
 <br>
